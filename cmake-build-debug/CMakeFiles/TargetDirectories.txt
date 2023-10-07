@@ -1,0 +1,3 @@
+D:/uag/fundamentos/unidad 3/Banco/cmake-build-debug/CMakeFiles/Banco.dir
+D:/uag/fundamentos/unidad 3/Banco/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/uag/fundamentos/unidad 3/Banco/cmake-build-debug/CMakeFiles/rebuild_cache.dir
